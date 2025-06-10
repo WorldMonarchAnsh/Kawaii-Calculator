@@ -31,4 +31,4 @@ A super adorable calculator available online for every device with Browser! 🌐
 
 🌷 Made With Love
 Made by Ansh Sharma [WorldMonarchAnsh] 💗
-If you like it, ⭐ star the repo and share it with your friends!
+If you like it, ⭐ star the repo and share it with your friends! If have any queries, ask me in Discord! My Discord User ID is: @rubynous212007 
