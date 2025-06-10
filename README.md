@@ -6,7 +6,11 @@ A super adorable calculator available online for every device with Browser! 🌐
 
 ## 🌟 Web Version Preview
 
-![Cute Web Calculator](./screenshot.png)
+### 💻 Desktop View
+![Desktop View](./Desktop%20Browser%20Screenshot.png)
+
+### 📱 Mobile View
+![Mobile View](./Mobile%20Browser%20Screenshot.png)
 
 ---
 
